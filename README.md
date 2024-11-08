@@ -19,10 +19,10 @@
 -  With probability ε, exploration is done by choosing a random arm. With probability 1 - ε, exploitation is done by choosing the arm with the highest observed average reward.
 
 ### Result:
-Arm Selection Counts: [ 39.  25. 790.  21. 125.]
-Estimated Values for each Arm: [0.20512821 0.32       0.73037975 0.         0.56      ]
-Total Reward: 663.0
+- Arm Selection Counts: [ 39.  25. 790.  21. 125.]
+- Estimated Values for each Arm: [0.20512821 0.32       0.73037975 0.         0.56      ]
+- Total Reward: 663.0
 
-#### Learning curve:
+### Learning curve:
 ![image](https://github.com/user-attachments/assets/22dff784-4d41-405b-ae00-053133c28ba4)
 
